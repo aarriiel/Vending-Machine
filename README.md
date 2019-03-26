@@ -1,6 +1,6 @@
 # Vending-Maching
 
-##Material
+## Material
 * **photoresistor** *1
 * **servomotor** *3
 * **LED** *4 (three are using to check the goods, one is using to check the photoresistor)
@@ -9,7 +9,7 @@
 * **resistance** *n
 * **wire** *n
 
-<img src="photo/front.jpg>
+<img src="photo/front.JPG>
 <hr>
 <img src="photo/back.jpg>
 <hr>
