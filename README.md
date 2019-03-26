@@ -9,7 +9,7 @@
 * **resistance** *n
 * **wire** *n
 
-<img src="/photo/front.JPG" width=378 height=504 >
+<img src="/photo/front.JPG" width=286 height=526 >
 <hr>
 <img src="/photo/back.jpg" width=286 height=526>
 <hr>
