@@ -9,8 +9,6 @@
 * **resistance** *n
 * **wire** *n
 
-![image](/photo/front.JPG)
-
 <img src="/photo/front.JPG" width=378 height=504 >
 <hr>
 <img src="/photo/back.jpg" width=286 height=526>
