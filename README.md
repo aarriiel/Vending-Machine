@@ -13,6 +13,6 @@
 
 <img src="/photo/front.JPG" width=400 height=500 >
 <hr>
-<img src="/photo/back.jpg">
+<img src="/photo/back.jpg" width=286 height=526>
 <hr>
 <img src="/photo/inside.jpg" width=592 height=1052>
