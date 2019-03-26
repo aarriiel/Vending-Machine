@@ -8,6 +8,8 @@
 * **button** *3
 * **resistance** *n
 * **wire** *n
+* **Arduino** *2
+* **breadboard** *1
 
 <img src="/photo/front.PNG" width=338 height=451 >
 <hr>
