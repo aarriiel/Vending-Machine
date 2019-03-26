@@ -9,8 +9,8 @@
 * **resistance** *n
 * **wire** *n
 
-<img src="photo/front.JPG>
+<img src="/photo/front.JPG>
 <hr>
-<img src="photo/back.jpg>
+<img src="/photo/back.jpg>
 <hr>
-<img src="photo/inside.jpg>
+<img src="/photo/inside.jpg>
