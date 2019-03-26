@@ -11,8 +11,8 @@
 
 ![image](/photo/front.JPG)
 
-<img src="/photo/front.JPG" width=400 height=500 >
+<img src="/photo/front.JPG" width=378 height=504 >
 <hr>
 <img src="/photo/back.jpg" width=286 height=526>
 <hr>
-<img src="/photo/inside.jpg" width=592 height=1052>
+<img src="/photo/inside.jpg" width=286 height=526>
