@@ -15,4 +15,4 @@
 <hr>
 <img src="/photo/back.jpg">
 <hr>
-<img src="/photo/inside.jpg">
+<img src="/photo/inside.jpg" width=592 height=1052>
