@@ -1,4 +1,4 @@
-# Vending-Maching
+# Vending-Machine
 
 ## Material
 * **photoresistor** *1
